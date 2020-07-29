@@ -1,0 +1,12 @@
+{
+  "name": "Aplicativo-de-Controle",
+  "displayName": "Aplicativo-de-Controle",
+  "expo": {
+    "name": "Aplicativo-de-Controle",
+    "slug": "Aplicativo-de-Controle",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
